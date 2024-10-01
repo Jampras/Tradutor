@@ -1,0 +1,1 @@
+esse é um tradutor simples ele capta o microfone e traduz de portugues para ingles e salva em um arquivo "texto_transcrito".
